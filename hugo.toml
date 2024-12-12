@@ -1,0 +1,12 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'its over 9000 blog'
+theme = "hyde"
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/shreemit/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/shreemit/"}
+  ]
+
+[params]
+  description = "shreemit's blog"
